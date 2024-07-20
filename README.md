@@ -1,10 +1,8 @@
-- 👋 Hi, I’m @ayomideogunjobi
-- 👀 I’m interested in computer engineering in the medical field 
-- 🌱 I’m currently learning how to code in C++ and Python
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: she/they
-- ⚡ Fun fact: I've never broken a bone!
+# Hello :)
+- I’m Ayomide
+- I’m currently studying computer engineering, and at the moment I'm an aspiring full-stack develooper.
+- Pronouns: she/her
+
 
 <!---
 ayomideogunjobi/ayomideogunjobi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

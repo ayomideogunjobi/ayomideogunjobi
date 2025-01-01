@@ -1,6 +1,6 @@
 # Hello :)
 - I’m Ayomide
-- I’m currently studying computer engineering, and at the moment I'm an aspiring full-stack develooper.
+- I’m currently studying computer science & engineering, and at the moment I'm an aspiring full-stack develooper.
 - Pronouns: she/her
 
 
